@@ -1,1 +1,1 @@
-# mint_algo_24-25
+# mipt_algo_24-25
